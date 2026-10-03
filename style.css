@@ -14,7 +14,6 @@ h1 {
   width: 500px;
   margin: 0 auto;
   background-color: #e0e0e0;
-  text-align: center;
   padding: 20px 0;
   margin-bottom: 0;
   color: #333;
@@ -45,6 +44,14 @@ form label {
   padding: 20px;
   background-color: #e0e0e0;
   box-sizing: border-box;
+}
+
+
+.form-container h1 {
+  width: auto;
+  margin: 0;
+  padding: 20px 0;
+  text-align: left;
 }
 
 
